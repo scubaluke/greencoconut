@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"path": "../../Meditation-refactored"
+	},
+	{
+		"path": "../../fullStack"
+	},
+	{
+		"path": "../../kata"
+	},
+	{
+		"path": "../../mjpuppet/mjpuppet 2.0"
+	},
+	{
+		"path": "../../portfolio"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "GreenCoconut"
+  }
+}
